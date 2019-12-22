@@ -1,0 +1,8 @@
+<button bindtap="tap1">获取使用者的ID</button>
+<view>ID:{{name}}</view>
+<button bindtap="tap2">获取使用者所处位置是否在沙河雁南园S2</button>
+<view>所在位置结果:{{bool1}}</view>
+<!-- <button bindtap="checkIsFingerPrint">检测是否可以指纹识别</button> -->
+<button bindtap="HaveFingerPrint">该设备是否录入指纹</button>
+ <button bindtap="FingerPrint">识别指纹</button>
+ <view>是否是本人指纹：{{bool2}}</view>

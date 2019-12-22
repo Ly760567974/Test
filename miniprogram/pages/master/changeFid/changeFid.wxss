@@ -1,0 +1,15 @@
+.in1{margin-top: 10px;
+ border: solid black 1px;
+}
+.in2{margin-top: 8px;
+color: white;
+background-color: green;
+}
+.in2{margin-top: 8px;
+color: white;
+background-color: green;
+}
+.in3{margin-top: 8px;
+color: white;
+background-color: green;
+}

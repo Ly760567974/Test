@@ -1,0 +1,7 @@
+<view class="in1">            <image class="in2" src="../../image/i7.jpg">
+</image>
+<view>
+<input placeholder="输入学号" bindinput="put1" class="in3"></input>
+<button bindtap="tap1" class="in4">进入</button>
+</view>
+   </view>      

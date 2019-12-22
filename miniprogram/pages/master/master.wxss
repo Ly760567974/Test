@@ -1,0 +1,33 @@
+.in1{
+ border: solid 1px black;
+width: 100%;
+top: 30rpx;left:0rpx;
+  font-weight: bolder;position: absolute;font-size: 60rpx;
+  color:red;
+}
+.a1{top:45rpx;
+  width: 40rpx; height:40rpx; border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid black;  right: 20px; transform: rotate(45deg);position: absolute; 
+}
+.in2{
+ border: solid 1px black;
+width: 100%;
+top: 110rpx;left:0rpx;
+  font-weight: bolder;position: absolute;font-size: 60rpx;
+  color:blue;
+}
+.a2{top:135rpx;
+  width: 40rpx; height:40rpx; border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid black;  right: 20px; transform: rotate(45deg);position: absolute; 
+}
+.in3{
+ border: solid 1px black;
+width: 100%;
+top: 210rpx;left:0rpx;
+  font-weight: bolder;position: absolute;font-size: 60rpx;
+  color:yellow;
+}
+.a3{top:235rpx;
+  width: 40rpx; height:40rpx; border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid black;  right: 20px; transform: rotate(45deg);position: absolute; 
+}
+.in4{    width: 100%;    height: 100%;       position: relative;  }   
+.in5{    top: 0rpx;    margin-left: 0rpx;     height: 1330rpx;    float: left;    position: absolute;width: 750rpx;
+ filter: opacity(80%)} 

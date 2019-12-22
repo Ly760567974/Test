@@ -1,0 +1,5 @@
+<input placeholder="输入要更改的Fid的学号" bindinput="put1" class="in1"></input>
+<button bindtap="HaveFingerPrint"class="in2">该设备是否录入指纹</button>
+ <button bindtap="FingerPrint" class="in3">识别指纹的Fid</button>
+ <view>Fid:{{Fid}}</view>
+ <button bindtap="tap1" class="in3">更新指纹</button>

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {},
+  "backgroundColor": "#CC99CC",
+  "backgroundTextStyle": "dark",
+  "navigationBarBackgroundColor": "#9900CC",
+  "navigationBarTitleText": "签到情况",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true
+}

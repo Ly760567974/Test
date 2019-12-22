@@ -1,0 +1,9 @@
+{
+  "usingComponents": {},
+  "backgroundColor": "#99FFFF",
+  "backgroundTextStyle": "dark",
+  "navigationBarBackgroundColor": "#3300CC",
+  "navigationBarTitleText": "生活委员",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh":true
+}

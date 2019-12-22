@@ -1,0 +1,12 @@
+.in1{    width: 100%;    height: 100%;       position: relative;  }   
+.in2{    top: 0rpx;    margin-left: 0rpx;     height: 1330rpx;    float: left;    position: absolute;width: 750rpx;
+ filter: opacity(80%)} 
+.in3{
+border: solid black 1px;
+margin-top: 80px;
+}
+.in4{
+  margin-top: 80px;
+  color: white;
+  background-color: green;
+}

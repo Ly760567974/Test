@@ -1,0 +1,6 @@
+      <view class="in1">            <image class="in2" src="../../image/i1.jpg">
+</image>
+ <view class="in5">查寝宝</view>
+<input placeholder="输入口令" class="in3" bindinput="change1"></input>
+<button class="in4" bindtap="tap1">确认</button>
+   </view>      

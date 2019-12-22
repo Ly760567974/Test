@@ -1,0 +1,6 @@
+<button bindtap="tap" class="in1">查看签到情况</button>
+<view>学号   时间  宿舍号</view>
+<view wx:for="{{calculator}}" wx:key="number">
+{{index+1}}:{{item.menber}}:{{item.time}}:{{item.dormitory}}  
+</view>
+     

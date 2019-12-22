@@ -1,0 +1,12 @@
+<view class="in4">
+<image class="in5" src="../../image/i5.jpg"></image>
+<view><navigator url="content/content" class="in1">查看到齐情况</navigator>
+<view class="a1"></view>
+</view>
+<view><navigator url="changeFid/changeFid" class="in2">修改指纹</navigator>
+<view class="a2"></view>
+</view>
+<view><navigator url="changePassword/changePassword" class="in3">修改口令</navigator>
+<view class="a3"></view>
+</view>
+</view>

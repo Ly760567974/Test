@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+  },
+  "backgroundColor": "#660099",
+  "backgroundTextStyle": "dark",
+  "navigationBarBackgroundColor": "#0000FF",
+  "navigationBarTitleText": "学号",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true
+}

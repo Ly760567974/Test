@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/choose/choose",
+    "pages/master/content/content",
+    "pages/master/master",
+    "pages/menber/menber",
+    "pages/menber/menber2/menber2",
+  "pages/master/changeFid/changeFid",
+"pages/master/changePassword/changePassword",
+    "pages/menber/menber1/menber1",
+    "pages/menber/menber4/menber4",
+    "pages/menber/menber3/menber3"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/choose/choose",
+        "text": "生活委员",
+        "iconPath": "pages/png/t1.png",
+        "selectedIconPath": "pages/png/t2.png"
+      },
+      {
+        "pagePath": "pages/menber/menber",
+        "text": "宿舍成员",
+        "iconPath": "pages/png/t4.png",
+        "selectedIconPath": "pages/png/t3.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
